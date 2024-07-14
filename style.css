@@ -1,4 +1,4 @@
-* {
+/* * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
@@ -7,27 +7,27 @@
 
 body {
   /* background-image: url(sky-3335585_1280.jpg); */
-  color: rgb(26, 26, 26);
+  /* color: rgb(26, 26, 26);
   margin: 5px;
   padding: 5px;
 }
 
-h1 {
+h1 { */
   /* background: linear-gradient(to left, rgb(52, 10, 148, 0.2), #bdbdbd);
   background-repeat: no-repeat;
   background-attachment: fixed; */
-  text-decoration: double underline;
+  /* text-decoration: double underline;
   margin-bottom: 10px;
 }
 
 p {
-  /* background: linear-gradient(to right, rgb(52, 10, 148, 0.2), rgb(189, 189, 189));
-  background-repeat: no-repeat;
+  /* background: linear-gradient(to right, rgb(52, 10, 148, 0.2), rgb(189, 189, 189)); */
+  /* background-repeat: no-repeat;
   background-attachment: fixed; */
   /* margin: 3px;
   padding: 3px; */
   /* border: 2px solid rgba(0,0,0) */
-}
+/* }
 
 .para.one {
   border: 2px double rgb(255, 255, 255);
@@ -53,4 +53,20 @@ p {
 
 .box.three {
   background-color: orangered;
+} */ 
+
+.box1 {
+  border: 1px solid;
+  height: 200px;
+  width: 200px;
+  background-color: fuchsia;
+
+  /* position: */
+}
+
+.box2 {
+  border: 1xp solid;
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
 }
